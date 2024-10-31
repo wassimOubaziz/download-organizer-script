@@ -18,8 +18,8 @@ A Python script to automatically organize your downloads folder by moving files 
 1. Clone the repository or download the script.
 
 ```sh
-git clone https://github.com/yourusername/download-organizer.git
-cd download-organizer
+git clone https://github.com/wassimOubaziz/download-organizer-script.git
+cd download-organizer-script
 ```
 
 2. Install the required package.
